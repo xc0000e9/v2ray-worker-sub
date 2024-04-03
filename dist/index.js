@@ -1919,7 +1919,7 @@ var configProviders =
     type: "b64",
     random: true,
     urls: [
-      "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
+      "https://raw.githubusercontent.com/xc0000e9/deatnote/main/Hiddify-next.fragment"
     ]
   }
 ];
